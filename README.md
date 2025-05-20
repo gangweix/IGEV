@@ -1,4 +1,4 @@
-# IGEV++
+# IGEV++ (TPAMI 2025)
 Our significant extension version of IGEV, named IGEV++, is available at [Paper](https://arxiv.org/pdf/2409.00638), [Code](https://github.com/gangweiX/IGEV-plusplus)
 
 # IGEV-Stereo (CVPR 2023)
