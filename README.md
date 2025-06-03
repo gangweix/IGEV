@@ -192,11 +192,12 @@ If you find our work useful in your research, please consider citing our paper:
   year={2023}
 }
 
-@article{xu2024igev++,
-  title={IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching},
+@article{xu2025igev++,
+  title={Igev++: Iterative multi-range geometry encoding volumes for stereo matching},
   author={Xu, Gangwei and Wang, Xianqi and Zhang, Zhaoxing and Cheng, Junda and Liao, Chunyuan and Yang, Xin},
-  journal={arXiv preprint arXiv:2409.00638},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 
 ```
